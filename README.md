@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Visit at: https://kfuseini.github.io/bare-react-app
+## Visit at: http://kfuseini.github.io/bare-react-app
 
 ## Available Scripts
 
